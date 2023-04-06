@@ -1,0 +1,25 @@
+{
+  "name": "LanguageLink",
+  "version": "1.0.0",
+  "description": "Its our NLP project for college. Created by 5 people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "bootstrap-icons": "^1.9.1",
+    "json-server": "^0.17.0"
+  }
+}
